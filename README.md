@@ -1,1 +1,1 @@
-##Simple Interest Calcultor made with QBasic
+#Simple Interest Calcultor made with QBasic
